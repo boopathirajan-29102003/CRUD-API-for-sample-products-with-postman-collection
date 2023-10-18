@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "652d50003f84c74e12ff94f6"
+  },
+  "name": "mouse",
+  "quantity": 2,
+  "price": 1000,
+  "image": "2wCEAAkGBxISDxUPEhMVFRUVFRUVFRUVFxUVFRUVFRUXFhUVFRUYHSggGBolHRUVITEhJSkrLi4uFx8zODMtNygtLisBCgoKDg0OFQ8QGCsdFR0tNi0rKy0tKy8tKy03LS01LSsrKysrLS0tKy0rLS0rNS0tKy0rLS0yLSstKysyLS0tK",
+  "createdAt": {
+    "$date": "2023-10-16T15:00:16.608Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-16T15:00:16.608Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652d50113f84c74e12ff94f8"
+  },
+  "name": "computer",
+  "quantity": 1,
+  "price": 10000,
+  "image": "2wCEAAkGBxISDxUPEhMVFRUVFRUVFRUVFxUVFRUVFRUXFhUVFRUYHSggGBolHRUVITEhJSkrLi4uFx8zODMtNygtLisBCgoKDg0OFQ8QGCsdFR0tNi0rKy0tKy8tKy03LS01LSsrKysrLS0tKy0rLS0rNS0tKy0rLS0yLSstKysyLS0tK",
+  "createdAt": {
+    "$date": "2023-10-16T15:00:33.306Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-16T15:00:33.306Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652d53638730948559928924"
+  },
+  "name": "keyboard",
+  "quantity": 5,
+  "price": 250000,
+  "image": "qertyuiodfghjvbnm",
+  "createdAt": {
+    "$date": "2023-10-16T15:14:43.033Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-16T16:22:41.288Z"
+  },
+  "__v": 0
+}]
